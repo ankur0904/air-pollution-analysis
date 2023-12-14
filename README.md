@@ -1,7 +1,5 @@
 # Analyzing the impact of the lockdown on air quality in Delhi, India
 
-![A grid showing the India Gate in smog above and clear air below](_static/11-delhi-aqi.jpg)
-
 ## What you'll do
 
 Calculate Air Quality Indices (AQI) and perform paired Student's t-test on them.
